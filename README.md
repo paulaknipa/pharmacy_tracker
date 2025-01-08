@@ -1,46 +1,34 @@
-# Pharmacy Tracker App
+📱 Pharmacy Tracker App
+Pharmacy Tracker ir privātās lietošanas lietotne, kas palīdz lietotājiem efektīvi organizēt un pārvaldīt savu farmaceitisko inventāru. Ar šo lietotni jūs varat viegli sekot līdzi svarīgai informācijai, piemēram, derīguma termiņiem, krājumu līmenim un daudz kam citam! 📦💊
 
-**Pharmacy Tracker** is a private-use app designed to help users efficiently organize and manage their pharmacy inventory. With this app, you can easily keep track of essential information such as expiration dates, stock levels, and more.
+🚀 Features
+Pievienot vai skenēt priekšmetus: Ievadiet priekšmetus manuāli vai skenējiet svītrkodus ātrākai datu ievadīšanai. 📲
+Sekojiet derīguma termiņiem: Nekad nepalaidiet garām "labā līdz" datumus savām zālēm vai citiem farmaceitiskiem produktiem. ⏰
+Uzraudzīt krājumu līmeņus: Ziniet tieši, cik daudz katra produkta jums ir. 📉📈
+Organizēta inventarizācija: Saglabājiet datus kārtīgā un viegli pieejamā formātā. 🔍📑
+🤔 Why Use This App?
+Personālā farmaceitiskā inventāra pārvaldīšana var būt izaicinoša. Pharmacy Tracker nodrošina vienkāršu un efektīvu veidu, kā:
 
-## Features
+Izvairīties no izmantotām beigušamies medikamentiem. 🚫💊
+Ietaupīt laiku, ātri atrodot nepieciešamos priekšmetus. ⏳
+Saglabāt precīzu inventāra skaitu. 📊
+🖥️ Tech Stack
+Šī lietotne ir veidota, izmantojot:
 
-- **Add or Scan Items**: Enter items manually or scan barcodes for faster data entry.
-- **Track Expiration Dates**: Never lose track of "best before" dates for your medications or other pharmacy items.
-- **Monitor Stock Levels**: Know exactly how many of each item you have left.
-- **Organized Inventory**: Keep your data neatly arranged for quick access.
+Frontend: [Norādiet izvēlēto tehnoloģiju, piemēram, React, Flutter, utt.] 💻
+Backend: [Norādiet izvēlēto servera pusi, piemēram, Node.js, Firebase, utt.] 🌐
+Database: [Norādiet izvēlēto datubāzi, piemēram, SQLite, Firestore, utt.] 🗃️
+🔧 How to Use
+Lejupielādējiet lietotni: [Pievienojiet saiti uz lietotni vai instalēšanas instrukcijas, ja nepieciešams]. 📲
+Pievienojiet priekšmetus: Skenējiet vai manuāli ievadiet informāciju par savām farmaceitiskajām precēm. ✍️
+Organizējiet savu inventāru: Izmantojiet lietotnes intuitīvo saskarni, lai kārtotu, meklētu un kategorizētu priekšmetus. 📁
+Sekojiet derīguma termiņiem: Saņemiet paziņojumus, kad produkti tuvojas derīguma beigām. 🛑
+Uzraudzīt krājumus: Atjauniniet daudzumu, kad izmantojat vai pievienojat priekšmetus savā inventārā. 🔄
+🌟 Contributing
+Šis projekts ir paredzēts galvenokārt privātai lietošanai, taču labprāt pieņemam ieguldījumus! Ja jums ir idejas par jaunām funkcijām vai uzlabojumiem, droši iesniedziet pull pieprasījumus vai atveriet problēmas diskusijām. 💡🤝
 
-## Why Use This App?
+📝 License
+Šis projekts ir licencēts saskaņā ar MIT License. 🔓
 
-Managing a personal pharmacy inventory can be challenging. Pharmacy Tracker provides a straightforward and efficient way to:
+Pharmacy Tracker palīdzēs jums saglabāt farmaceitisko inventāru organizētu un efektīvu, lai jums vienmēr būtu pareizās zāles un preces, kad tās ir nepieciešamas! 💊✨
 
-- Avoid expired medications.
-- Save time by quickly locating items.
-- Keep an accurate count of your inventory.
-
-## Tech Stack
-
-This app is built using:
-
-- **Frontend**: [Specify the framework or technology, e.g., React, Flutter, etc.]
-- **Backend**: [Specify your backend framework, e.g., Node.js, Firebase, etc.]
-- **Database**: [Specify your database, e.g., SQLite, Firestore, etc.]
-
-## How to Use
-
-1. **Download the App**: [Link to your app or installation instructions, if applicable].
-2. **Add Items**: Scan or manually input details about your pharmacy items.
-3. **Organize Your Inventory**: Use the app's intuitive interface to sort, search, and categorize your items.
-4. **Track Expiration**: Get notified when items are nearing their "best before" date.
-5. **Monitor Stock**: Update quantities as you use or add items to your inventory.
-
-## Contributing
-
-This project is currently intended for private use, but contributions to enhance functionality are welcome! Feel free to submit pull requests or open issues for discussion.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Keep your pharmacy organized and efficient with the **Pharmacy Tracker** app!
