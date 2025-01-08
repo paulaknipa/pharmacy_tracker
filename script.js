@@ -55,7 +55,7 @@ function updateEmptyMessage() {
   if (itemList.children.length === 0) {
     emptyMessage.style.display = 'block';
   } else {
-    emptyMessage.style.display = 'none';
+    emptyMessage.styles.display = 'none';
   }
 }
 
